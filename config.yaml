@@ -2,7 +2,7 @@
 experiment_name: ""   # name of the experiment
 device: 0   # -1 for CPU, otherwise GPU id
 seed: 27  # random seed
-data_base_path: "kadid10k"    # path to the base directory containing the datasets
+data_base_path: "/kaggle/input/kadid10k/kadid10k"    # path to the base directory containing the datasets
 
 
 # Training
